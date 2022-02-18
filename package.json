@@ -1,0 +1,24 @@
+{
+  "name": "videoplayer-practicingjs",
+  "version": "1.0.0",
+  "description": "This is a personal project for practicing JS vanilla.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpenaloza/videoPlayer-practicingJS.git"
+  },
+  "keywords": [],
+  "author": "Tomás Peñaloza <tompenaloza@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tpenaloza/videoPlayer-practicingJS/issues"
+  },
+  "homepage": "https://github.com/tpenaloza/videoPlayer-practicingJS#readme",
+  "devDependencies": {
+    "live-server": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"live-server"
+  }
+}
